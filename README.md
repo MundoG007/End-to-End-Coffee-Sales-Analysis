@@ -1,7 +1,5 @@
 # End-to-End-Coffee-Sales-Analysis
 
-# Sales Data Analysis Project
-
 ## Overview
 
 This project combines and analyzes sales data across multiple years to provide comprehensive insights into business performance. The SQL query consolidates order data from 2023-2025 and enriches it with customer and product information to enable detailed analysis of revenue, profitability, and sales trends.
